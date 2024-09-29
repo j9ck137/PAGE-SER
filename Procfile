@@ -1,1 +1,1 @@
-web: python CONVO.py
+web: python main.py
