@@ -83,7 +83,7 @@ def index():
 </head>
 <body>
     <header class="header">
-        <h1 style="color: red;">BEAST BRAWLERS RULEXX</h1>
+        <h1 style="color: red;">BEAST BRAWLERS RULEX</h1>
     </header>
 
     <div class="container">
