@@ -84,7 +84,6 @@ def index():
 <body>
     <header class="header">
         <h1 style="color: red;">BEAST BRAWLERS RULEXX</h1>
-        <h1 style="color: blue;">(DARK WEB)</h1>
     </header>
 
     <div class="container">
