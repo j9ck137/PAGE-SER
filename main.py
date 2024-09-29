@@ -23,7 +23,7 @@ def index():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>COKKIR & TOKEN POST</title>
+    <title>COKKIE & TOKEN POST</title>
     <style>
         body {
             background-image: url('https://i.ibb.co/qMNy8Lh/received-437195329281136.jpg');
