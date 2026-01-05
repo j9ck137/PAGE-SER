@@ -1,7 +1,7 @@
 from flask import Flask, request, redirect, url_for, session, render_template_string
 
 app = Flask(__name__)
-app.secret_key = "super-secret-key"  # change if you want
+app.secret_key = "d4906e17ce34fc44d39cfb1abea10007dab23a73d393e6f659143b09bea7a553"  # change if you want
 
 # ---- USERS (2-3 users) ----
 USERS = {
