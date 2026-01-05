@@ -40,7 +40,7 @@ HOST_HTML = """
     <h2>Welcome {{ user }}</h2>
     <p>This is my host page</p>
     <h3>Host Link:</h3>
-    <a href="http://localhost:22133">http://localhost:22133</a>
+    <a href="de1.bot-hosting.net:21901">de1.bot-hosting.net:21901</a>
     <br><br>
     <a href="/logout">Logout</a>
 </body>
